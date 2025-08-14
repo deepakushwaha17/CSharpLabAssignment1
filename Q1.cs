@@ -16,7 +16,7 @@ namespace LabAssignment1
             {
                 sum = sum + a[i];
             }
-            Console.WriteLine(sum);
+            Console.WriteLine("Sum = "+sum);
         }
     }
 }
